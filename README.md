@@ -53,13 +53,7 @@ Explore my [repositories](https://github.com/SaiDivya2106?tab=repositories) for 
 - Learning API development, integration, and deployment.
 - Building reliable, practical, and user-focused software.
 
-## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiDivya2106&show_icons=true&theme=default&hide_border=true" alt="GitHub statistics" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDivya2106&layout=compact&theme=default&hide_border=true" alt="Most used programming languages" />
-</p>
 
 ## Connect With Me
 
